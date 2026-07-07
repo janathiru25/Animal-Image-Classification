@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+dataset/
+outputs/
+
+models/best_model.pth
+
+.env
+
+.DS_Store
+
+Thumbs.db
